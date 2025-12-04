@@ -5,6 +5,6 @@
     <title>TITLE$</title>
 </head>
 <body>
-<h1>Chào mừng đến với${message} </h1>
+<h1>Chào mừng đến với </h1>
 </body>
 </html>
